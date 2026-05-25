@@ -1,6 +1,6 @@
-# The Afterglow — Landing page
+# Northlight — Landing page
 
-Landing page estática en HTML y CSS para la banda "The Afterglow".
+Landing page estática en HTML y CSS para la banda "Northlight".
 
 Descripción
 - Proyecto creado como landing editorial, referencia visual: `landing.png`.
